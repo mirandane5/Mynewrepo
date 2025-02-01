@@ -12,35 +12,26 @@
         <h1>Welcome to My Website</h1>
         <nav>
             <ul>
-                <li><a href="chapter4.html">Chapter 4</a></li>
-                <li><a href="chapter5.html">Chapter 5</a></li>
-                <li><a href="project.html">Project</a></li>
+                <li><a href="https://lipscomb.instructure.com/courses/51618/modules/items/1452856" target="_blank">Chapter 4</a></li>
+                <ul>
+                    <li><a href="https://lipscomb.instructure.com/courses/51618/assignments/630952?module_item_id=1452858" target="_blank">Assignment</a></li>
+                </ul>
+                <li><a href="#">Chapter 5</a></li>
+                <ul>
+                    <li><a href="https://lipscomb.instructure.com/courses/51618/assignments/630967?module_item_id=1452846" target="_blank">HoP 1</a></li>
+                    <li><a href="https://lipscomb.instructure.com/courses/51618/assignments/630967?module_item_id=1452846" target="_blank">HoP 2</a></li>
+                    <li><a href="file:///Users/mirandaelder/Web%20Dev./band.html">Local File: band.html</a></li>
+                    <li><a href="https://lipscomb.instructure.com/courses/51618/assignments/630949?module_item_id=1452852" target="_blank">Assignment</a></li>
+                </ul>
+                <li><a href="https://lipscomb.instructure.com/courses/51618/files/4583898?module_item_id=1452874" target="_blank">Project</a></li>
             </ul>
         </nav>
     </header>
 
-    <section>
-        <h2>Chapter 4</h2>
-        <ul>
-            <li><a href="hop-chapter4.html">HoP</a></li>
-        </ul>
-    </section>
-
-    <section>
-        <h2>Chapter 5</h2>
-        <ul>
-            <li><a href="hop-chapter5.html">HoP</a></li>
-            <li><a href="hop1-chapter5.html">HoP 1</a></li>
-            <li><a href="hop2-chapter5.html">HoP 2</a></li>
-            <li><a href="assignment-chapter5.html">Assignment</a></li>
-            <ul>
-                <li><a href="assignment1-chapter5.html">Assignment 1</a></li>
-            </ul>
-        </ul>
-    </section>
-
     <footer>
         <p>Website created by [Your Name].</p>
     </footer>
+</body>
+</html>
 </body>
 </html>
